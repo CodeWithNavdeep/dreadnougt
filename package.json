@@ -1,6 +1,5 @@
 {
   "name": "dreadnought",
-  "homepage":"http://CodeWithNavdeep.github.io/dreadnougt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
