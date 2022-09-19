@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dreadnougt/static/css/main.71a12572.css",
+    "main.js": "/dreadnougt/static/js/main.b68f4a0d.js",
+    "static/js/787.bf400359.chunk.js": "/dreadnougt/static/js/787.bf400359.chunk.js",
+    "static/media/robo.png": "/dreadnougt/static/media/robo.88d712161a80c9248c1c.png",
+    "static/media/AIfg.png": "/dreadnougt/static/media/AIfg.6b0b960c14ef900dfacc.png",
+    "static/media/Stanford.png": "/dreadnougt/static/media/Stanford.e0039b567181aeeb2904.png",
+    "static/media/spaceship.jpg": "/dreadnougt/static/media/spaceship.c4337553a941d756fd25.jpg",
+    "static/media/Y.png": "/dreadnougt/static/media/Y.8ed6a54e42933424aee0.png",
+    "static/media/rocket.png": "/dreadnougt/static/media/rocket.ecaff40cc895d51c9017.png",
+    "static/media/Jason.svg": "/dreadnougt/static/media/Jason.28823509e694332483b508da815df81f.svg",
+    "static/media/Aliza.svg": "/dreadnougt/static/media/Aliza.951b7a78fa019c73de21d2b53a47e22c.svg",
+    "static/media/Bailee.svg": "/dreadnougt/static/media/Bailee.94ad64746b4ebdba7b116be9333ea1c6.svg",
+    "index.html": "/dreadnougt/index.html",
+    "main.71a12572.css.map": "/dreadnougt/static/css/main.71a12572.css.map",
+    "main.b68f4a0d.js.map": "/dreadnougt/static/js/main.b68f4a0d.js.map",
+    "787.bf400359.chunk.js.map": "/dreadnougt/static/js/787.bf400359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a12572.css",
+    "static/js/main.b68f4a0d.js"
+  ]
+}
